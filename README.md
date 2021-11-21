@@ -11,3 +11,5 @@ https://www.analyticsvidhya.com/blog/2020/01/build-your-first-machine-learning-p
 https://machinelearningmastery.com/how-to-tune-algorithm-parameters-with-scikit-learn/
 
 https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk
+
+https://www.arsys.es/blog/analisis-sentimientos-python-jupyter-notebooks/
